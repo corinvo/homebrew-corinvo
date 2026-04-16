@@ -1,0 +1,16 @@
+name: homebrew-corinvo
+id: ari:cloud:compass:86c77645-0db3-40f3-adb0-62cbda6e2699:component/dbfb6e58-f64e-411c-8e29-e76180226ad6/1cd0dce9-e596-413d-b852-2e0e55d2876c
+description: Homebrew Tap of Corinvo products and tools
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/corinvo/homebrew-corinvo
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
